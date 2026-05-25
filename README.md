@@ -61,7 +61,7 @@ automation     →  shipping systems · workflow automation · AI assistants
 ### client feedback
 
 <div align="center">
-  <a href="https://www.fiverr.com/sellers/mustafizur_dev">
+  <a href="https://www.fiverr.com/mustafizur_dev">
     <img src="https://img.shields.io/badge/View_My_Fiverr_Profile-f97316?style=flat-square&logo=fiverr&logoColor=f97316&labelColor=111111" alt="Fiverr"/>
   </a>
 </div>
