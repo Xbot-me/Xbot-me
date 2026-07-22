@@ -15,7 +15,7 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/github-Xbot--me-f97316?style=flat-square&logo=github&logoColor=f97316&labelColor=111111)](https://github.com/Xbot-me)&nbsp;
-[![](https://img.shields.io/badge/portfolio-mustafizur.dev-f97316?style=flat-square&logo=firefox&logoColor=f97316&labelColor=111111)](https://mustafizur.dev)&nbsp;
+[![](https://img.shields.io/badge/portfolio-mustafizur.dev-f97316?style=flat-square&logo=firefox&logoColor=f97316&labelColor=111111)](https://mustafizur.info)&nbsp;
 [![](https://img.shields.io/badge/email-mustafizur.dev101@gmail.com-f97316?style=flat-square&logo=gmail&logoColor=f97316&labelColor=111111)](mailto:mustafizur.dev101@gmail.com)&nbsp;
 ![](https://komarev.com/ghpvc/?username=Xbot-me&style=flat-square&color=f97316&label=profile+views&labelColor=111111)
 
