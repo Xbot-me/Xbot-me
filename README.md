@@ -1,12 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=2&section=header"/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:111111,100:1c1c1c&height=180&section=header&text=Mustafizur%20Rahman&fontSize=48&fontColor=f97316&fontAlignY=45&desc=Builder%20%20%C2%B7%20%20Automation%20Engineer%20%20%C2%B7%20%20AI%20%C3%97%20Backend%20Engineer&descSize=16&descColor=888888&descAlignY=68&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:111111,100:1c1c1c&height=180&section=header&text=Mustafizur%20Rahman&fontSize=48&fontColor=f97316&fontAlignY=45&desc=Builder%20%20%C2%B7%20%20Full-Stack%20Engineer%20%20%C2%B7%20%20DevOps%20%C3%97%20Applied%20AI&descSize=16&descColor=888888&descAlignY=68&animation=fadeIn"/>
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1200&color=f97316&center=true&vCenter=true&width=520&lines=7%2B+years+of+software+engineering;building+practical+AI+systems+that+run+in+production;WordPress+%E2%86%92+DevOps+%E2%86%92+Applied+AI+%E2%86%92+whatever's+next;build+it.+break+it.+fix+it.+automate+it." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1200&color=f97316&center=true&vCenter=true&width=520&lines=7%2B+years+of+software+engineering;shipping+real+systems%2C+not+demos;WordPress+%E2%86%92+DevOps+%E2%86%92+Full-Stack+%E2%86%92+Applied+AI;build+it.+break+it.+fix+it.+automate+it." />
 
 </div>
 
@@ -15,6 +15,7 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/github-Xbot--me-f97316?style=flat-square&logo=github&logoColor=f97316&labelColor=111111)](https://github.com/Xbot-me)&nbsp;
+[![](https://img.shields.io/badge/portfolio-mustafizur.dev-f97316?style=flat-square&logo=firefox&logoColor=f97316&labelColor=111111)](https://mustafizur.dev)&nbsp;
 [![](https://img.shields.io/badge/email-mustafizur.dev101@gmail.com-f97316?style=flat-square&logo=gmail&logoColor=f97316&labelColor=111111)](mailto:mustafizur.dev101@gmail.com)&nbsp;
 ![](https://komarev.com/ghpvc/?username=Xbot-me&style=flat-square&color=f97316&label=profile+views&labelColor=111111)
 
@@ -27,9 +28,9 @@
 ```
 name     →  Mustafizur Rahman
 alias    →  @Xbot-me
-base     →  Bangladesh 🇧🇩
-exp      →  7+ years · WordPress · Backend Systems · DevOps · Automation · Applied AI
-now      →  building practical AI systems that actually run in production, not demos
+base     →  Dhaka, Bangladesh 🇧🇩
+exp      →  7+ years · Full-Stack Development · WooCommerce/WordPress · DevOps · Applied AI
+now      →  running kpopusaonline.com solo (236k+ orders) + freelance dev on Fiverr (200+ projects)
 motto    →  build it. break it. fix it. automate it.
 ```
 
@@ -38,11 +39,11 @@ motto    →  build it. break it. fix it. automate it.
 ### what i work on
 
 ```
-ai / systems   →  LLM tools · automation agents · practical AI workflows
-devops         →  docker · linux · nginx · CI/CD · server automation
-backend        →  fastapi · rest apis · mysql · redis · system design
-wordpress      →  plugin engineering · debugging · automation tools
-automation     →  shipping systems · workflow automation · AI assistants
+full-stack     →  react · next.js · flutter · go · python · php
+e-commerce     →  woocommerce internals · hpos · custom plugins · payment integrations
+devops         →  docker · linux · nginx · ci/cd · server automation · load testing
+applied ai     →  llm-assisted pipelines · ocr · automation agents
+systems        →  real-time video (livekit) · websockets · message queues
 ```
 
 ---
@@ -51,9 +52,11 @@ automation     →  shipping systems · workflow automation · AI assistants
 
 | project | what it does | stack |
 |---|---|---|
-| 🧩 **AI WordPress Debugger** | detects WP errors + suggests fixes from logs automatically | `PHP` `Python` `LLM` |
-| ⚙️ **Shipping Automation Engine** | decision-based logistics pipeline with AI-assisted routing | `FastAPI` `Python` |
-| 🤖 **Local AI Assistant** | memory-based personal automation system running locally | `Ollama` `LangChain` |
+| 📰 **KhojBangla** | OCR pipeline for historical Bangla newspapers — column/line segmentation before OCR, semantic search, review-queue UI | `Python` `Tesseract` `Surya OCR` `Streamlit` |
+| ⚡ **PulseDeploy** | Self-hosted Bash DevOps toolkit — non-interactive CLI mode, full CI/CD via ShellCheck, man page + wiki | `Bash` `ShellCheck` `CI/CD` |
+| 🔧 **SRP-HPOS Fix** | Open-source fix for a WooCommerce Reward Points plugin's HPOS incompatibility — HPOS-aware SQL + corrected tier logic | `PHP` `WooCommerce` `MySQL` |
+| 📊 **PerfKit** | Self-hosted Lighthouse analyzer with AI-driven performance insights | `Node` `Groq API` `GitHub Actions` |
+| 🐾 **PashuCare** | Bilingual vet-finder app for Bangladesh, with map search and SMS-ready notifications | `Next.js` `SQLite` `Leaflet` |
 
 ---
 ---
@@ -81,16 +84,26 @@ automation     →  shipping systems · workflow automation · AI assistants
 
 ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=f97316)
 ![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=aaaaaa)
-![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=aaaaaa)
+![Go](https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=f97316)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=aaaaaa)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=aaaaaa)
+![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=aaaaaa)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=aaaaaa)
 
-**ai / applied**
+**frontend / mobile**
 
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=chainlink&logoColor=f97316)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=aaaaaa)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-111111?style=flat-square&logo=huggingface&logoColor=aaaaaa)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikit-learn&logoColor=aaaaaa)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=f97316)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=aaaaaa)
+![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=aaaaaa)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=aaaaaa)
+
+**backend / cms**
+
+![Go](https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=f97316)
+![WordPress](https://img.shields.io/badge/WordPress-111111?style=flat-square&logo=wordpress&logoColor=aaaaaa)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-111111?style=flat-square&logo=woocommerce&logoColor=aaaaaa)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=aaaaaa)
+![Redis](https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=aaaaaa)
 
 **infra / devops**
 
@@ -98,14 +111,13 @@ automation     →  shipping systems · workflow automation · AI assistants
 ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=aaaaaa)
 ![Nginx](https://img.shields.io/badge/Nginx-111111?style=flat-square&logo=nginx&logoColor=aaaaaa)
 ![GitHub Actions](https://img.shields.io/badge/Actions-111111?style=flat-square&logo=githubactions&logoColor=aaaaaa)
-![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws&logoColor=aaaaaa)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare&logoColor=aaaaaa)
 
-**backend / cms**
+**applied ai**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=f97316)
-![WordPress](https://img.shields.io/badge/WordPress-111111?style=flat-square&logo=wordpress&logoColor=aaaaaa)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=aaaaaa)
-![Redis](https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=aaaaaa)
+![OCR](https://img.shields.io/badge/OCR_%2F_Tesseract-111111?style=flat-square&logo=readthedocs&logoColor=f97316)
+![Groq](https://img.shields.io/badge/Groq_API-111111?style=flat-square&logo=lightning&logoColor=aaaaaa)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow&logoColor=aaaaaa)
 
 ---
 
@@ -116,6 +128,7 @@ automation     →  shipping systems · workflow automation · AI assistants
 - systems > scripts
 - real-world problems > research demos
 - simplicity scales better than complexity
+- accurate skill claims > inflated ones
 ```
 
 ---
