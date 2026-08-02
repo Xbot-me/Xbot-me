@@ -48,19 +48,6 @@ systems        →  real-time video (livekit) · websockets · message queues
 
 ---
 
-### projects
-
-| project | what it does | stack |
-|---|---|---|
-| 📰 **KhojBangla** | OCR pipeline for historical Bangla newspapers — column/line segmentation before OCR, semantic search, review-queue UI | `Python` `Tesseract` `Surya OCR` `Streamlit` |
-| ⚡ **PulseDeploy** | Self-hosted Bash DevOps toolkit — non-interactive CLI mode, full CI/CD via ShellCheck, man page + wiki | `Bash` `ShellCheck` `CI/CD` |
-| 🔧 **SRP-HPOS Fix** | Open-source fix for a WooCommerce Reward Points plugin's HPOS incompatibility — HPOS-aware SQL + corrected tier logic | `PHP` `WooCommerce` `MySQL` |
-| 📊 **PerfKit** | Self-hosted Lighthouse analyzer with AI-driven performance insights | `Node` `Groq API` `GitHub Actions` |
-| 🐾 **PashuCare** | Bilingual vet-finder app for Bangladesh, with map search and SMS-ready notifications | `Next.js` `SQLite` `Leaflet` |
-
----
----
-
 ### client feedback
 
 <div align="center">
